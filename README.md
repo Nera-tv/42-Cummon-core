@@ -24,4 +24,4 @@ here the list of all the projects carried out
 | 7 | [minitalk](https://github.com/Nera-tv/42-minitalk) | The purpose of this project is to code a small data exchange program using UNIX signals | finished |
 | 8 | [philosophers](https://github.com/Nera-tv/42-philosophers)|| finished |
 | 9 | [minishell](https://github.com/Nera-tv/minishell)|| unfinished |
-| 10 | [net_practice](https://github.com/Neress-dono/common-core_42/tree/main/net_practice) | NetPractice aims to introduce the network through practical cases. | finished |
+| 10 | [net_practice](https://github.com/Nera-tv/42-net_practice) | NetPractice aims to introduce the network through practical cases. | finished |
